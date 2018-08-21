@@ -19,6 +19,7 @@
 | Komiflo | 1058 JPY / mo |  |
 | 1Password | 2.99 USD / mo |  |
 | Netflix | 1566 JPY / mo | with multiple persons |
+| Annict | 2900 JPY / y |  |
 
 ## Licenses
 
