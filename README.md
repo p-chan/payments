@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|
 | NTT東日本 | 5076 JPY / mo |  |
 | ASAHIネット | 760 JPY / mo |  |
-| IIJmio | 3676 JPY / mo | basic charge |
+| IIJmio | 3829 JPY / mo | Voice x 1, SMS x 2 |
 
 ## Services
 
