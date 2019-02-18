@@ -20,7 +20,8 @@
 | 1Password | 2.99 USD / mo |  |
 | Netflix | 1566 JPY / mo | with multiple persons |
 | Annict | 2900 JPY / y |  |
-| esa.io | 500 JPY / mo |
+| esa.io | 500 JPY / mo |  |
+| Slack | 10200 JPY / y | 850 JPY / mo |
 
 ## Licenses
 
